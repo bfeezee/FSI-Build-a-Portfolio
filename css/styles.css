@@ -1,0 +1,15 @@
+
+
+body {
+    background-color: red;
+}
+
+h1 {
+    color: darkcyan;
+}
+div {
+    line-height: 2.5em;
+    background: greenyellow;
+    border-style:  solid;
+}
+
